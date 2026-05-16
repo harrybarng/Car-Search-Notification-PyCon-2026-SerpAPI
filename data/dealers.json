@@ -1,0 +1,58 @@
+{
+  "94041_audi": {
+    "zip_code": "94041",
+    "make": "Audi",
+    "discovered_at": "2026-05-16T01:27:09.234210",
+    "dealers": [
+      {
+        "name": "Audi Livermore",
+        "domain": "livermoreaudi.com",
+        "address": "3400 Las Positas Rd, Livermore, CA 94551",
+        "phone": "(925) 447-1100",
+        "rating": 4.5
+      },
+      {
+        "name": "Audi Marin",
+        "domain": "audimarin.com",
+        "address": "700 Francisco Blvd W, San Rafael, CA 94901",
+        "phone": "(415) 483-1854",
+        "rating": 4.7
+      },
+      {
+        "name": "Audi Concord",
+        "domain": "audiconcord.com",
+        "address": "1300 Concord Ave, Concord, CA 94520",
+        "phone": "(925) 298-0408",
+        "rating": 4.6
+      }
+    ]
+  },
+  "94041_bmw": {
+    "zip_code": "94041",
+    "make": "BMW",
+    "discovered_at": "2026-05-16T01:26:47.795328",
+    "dealers": [
+      {
+        "name": "BMW of Mountain View",
+        "domain": "bmwofmountainview.com",
+        "address": "150 E El Camino Real, Mountain View, CA 94040",
+        "phone": "(650) 200-0149",
+        "rating": 4.4
+      },
+      {
+        "name": "BMW of Fremont",
+        "domain": "bmwoffremont.com",
+        "address": "5720 Cushing Pkwy, Fremont, CA 94538",
+        "phone": "(510) 224-4820",
+        "rating": 4.4
+      },
+      {
+        "name": "BMW of San Francisco",
+        "domain": "bmwsf.com",
+        "address": "1675 Howard St, San Francisco, CA 94103",
+        "phone": "(628) 225-1892",
+        "rating": 4.5
+      }
+    ]
+  }
+}

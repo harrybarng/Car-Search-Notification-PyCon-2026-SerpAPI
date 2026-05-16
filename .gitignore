@@ -1,0 +1,27 @@
+# Data files — auto-created on first run, not committed
+data/criteria.json
+data/matches.json
+data/schedule.json
+data/settings.json
+data/cache/
+data/debug_last_search.json
+.env
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
