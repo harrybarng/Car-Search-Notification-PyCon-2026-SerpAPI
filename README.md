@@ -35,7 +35,7 @@ This app uses two SerpApi engines via the official Python SDK (`pip install serp
 ### 🏠 Home — Recent Matches
 Matches sorted newest-first with year, mileage, source, and a direct link to the listing.
 
-> _(add screenshot here)_
+![Recent Matches](docs/screenshot-home.png)
 
 ### 🏪 Dealers — Local Dealer Discovery
 Find all dealerships of a make near your zip code with one click.
