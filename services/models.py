@@ -59,7 +59,7 @@ class Settings(BaseModel):
     pushover_user_key: str = ""
     pushover_api_token: str = ""
     notifications_enabled: bool = False
-    mock_mode: bool = True
+    mock_mode: bool = False
     cache_ttl_hours: int = 1
     pages_per_search: int = 1
 
